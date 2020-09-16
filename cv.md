@@ -113,6 +113,6 @@ Every day practice on
 [udemy]: https://www.udemy.com/course/javascript_full/learn
 [wlingua]: https://wlingua.com/en/
 [duolingo]: https://en.duolingo.com/
-[mail]: mailto:d.g.litvinov@gmail.com
+[mail]: https://gmail.com
 [telegram]: https://t.me/shaggybii
 [git]: https://github.com/funfordima
