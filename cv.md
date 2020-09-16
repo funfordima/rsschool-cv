@@ -21,8 +21,8 @@ For almost a year I have been studying HTML, CSS and JS.\
 At the moment, one of my main goals is to learn foreign language.\
 That's why I take every chance to learn something new.\
 I'm ambitious and hardworking, so:\
-    >I believe I can fly
-    (or start coding like a God for 1 year)\
+    > I believe I can fly
+    (or start coding like a God for a year)\
 So, never! never give up!
 
 ## Skills ##
