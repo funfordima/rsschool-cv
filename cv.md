@@ -79,6 +79,14 @@ and Mechanics with  honor (Avg. mark: 4.9/5)
 * DuoLingo
 * Wlingua
 
+## Work Experience ##
+
+*06/2009 - 02/2019:* Head manager in a big chain of restaurants *"Mama Manana"*
+*03/2014 - 10/2014:* I had my own website: selling air sofa
+*2013 - 2014:* Small cafe owner
+*02/2012 - 06/2012:* Freelance - web developer - web development using HTML, CSS
+*2005 - 2006:* System Administrator at VexaDev
+
 
 
 
