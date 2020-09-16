@@ -87,12 +87,23 @@ and Mechanics with  honor (Avg. mark: 4.9/5)
 *02/2012 - 06/2012:* Freelance - web developer - web development using HTML, CSS
 *2005 - 2006:* System Administrator at VexaDev
 
-## English ##
+## Work examples ##
 
+*Calculator* [calculator](https://github.com/funfordima/simpleCalculator)
+*TODO List* [todo](https://github.com/funfordima/ToDo)
+*Landing Page* [goit](https://github.com/funfordima/GoIT)
+*For validation* [form](https://github.com/funfordima/ValidationFormJs)
+*Trump's resume* [trump](https://github.com/funfordima/homepage)
+*hideTabContent* [tabs](https://github.com/funfordima/HideTabContent)
+*Consultex* [landingPage](https://github.com/funfordima/Consultex)
+*WeatherAPI* [fetchAPI](https://github.com/funfordima/weatherAPI)
+
+
+## English ##
 ### B1. PreIntermediate ###
-Every day practice on\
-* [Wlingua]:[wlingua]
-* [DuoLingo]:[duolingo]
+Every day practice on
+* [Wlingua][wlingua]
+* [DuoLingo][duolingo]
 
 
 [coursera]: https://courses.ed-era.com/courses/course-v1:EDERA_BBF+WEB+2019/info
