@@ -59,11 +59,11 @@ and Mechanics with  honor (Avg. mark: 4.9/5)
 
 ## Courses ##
 
-*06/2019:* Ed-Era: [Web Development Basics][coursera]
-*02/2020:* Udemy: [Full course JavaScript + React][udemy]
-*05/2020:* BinaryStudio: [JavaScript][binary]
-*08/2020:* Andersen: [FrontEnd][andersen]
-*01/2021:* RsSchool: [FrontEnd][RsSchool]
+*06/2019:* Ed-Era: [Web Development Basics][coursera]\
+*02/2020:* Udemy: [Full course JavaScript + React][udemy]\
+*05/2020:* BinaryStudio: [JavaScript][binary]\
+*08/2020:* Andersen: [FrontEnd][andersen]\
+*01/2021:* RsSchool: [FrontEnd][RsSchool]\
 
 ## Self education ##
 
@@ -90,8 +90,10 @@ and Mechanics with  honor (Avg. mark: 4.9/5)
 ## English ##
 
 ### B1. PreIntermediate ###
-Every day practice on * [Wlingua]:[wlingua]
-                      * [DuoLingo]:[duolingo]
+Every day practice on\
+* [Wlingua]:[wlingua]
+* [DuoLingo]:[duolingo]
+
 
 [coursera]: https://courses.ed-era.com/courses/course-v1:EDERA_BBF+WEB+2019/info
 [binary]: https://academy.binary-studio.com/ua/technology/js/
