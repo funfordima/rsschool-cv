@@ -25,4 +25,23 @@ I'm ambitious and hardworking, so:\
     (or start coding like a God for 1 year)\
 So, never! never give up!
 
+## Skills ##
+
+* HTML
+* CSS
+* JAVASCRIPT
+* PASCAL
+* DELPHI
+* PHOTOSHOP
+* AUTOCAD
+* SEO
+* JQUERY
+* WEBPACK
+* NODEJS
+* NPM
+* BOOTSTRAP
+* CSS-IN-JS
+* PRETTIER
+* ESLINT
+* MICROSOFT OFFICE
 
