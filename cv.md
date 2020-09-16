@@ -49,7 +49,7 @@ So, never! never give up!
 ## CHARACTER ##
 
 EXPLORER STRAIGHTFORWARD PEDANTIC\
-AGNOSTIC PROCRASTINATOR RELEVANT EMPATHETIC\ 
+AGNOSTIC PROCRASTINATOR RELEVANT EMPATHETIC\
 CONFIDENT CONSISTENT CHALLENGING\
 
 ## Education ##
@@ -81,22 +81,22 @@ and Mechanics with  honor (Avg. mark: 4.9/5)
 
 ## Work Experience ##
 
-*06/2009 - 02/2019:* Head manager in a big chain of restaurants *"Mama Manana"*
-*03/2014 - 10/2014:* I had my own website: selling air sofa
-*2013 - 2014:* Small cafe owner
-*02/2012 - 06/2012:* Freelance - web developer - web development using HTML, CSS
-*2005 - 2006:* System Administrator at VexaDev
+*06/2009 - 02/2019:* Head manager in a big chain of restaurants *"Mama Manana"*\
+*03/2014 - 10/2014:* I had my own website: selling air sofa\
+*2013 - 2014:* Small cafe owner\
+*02/2012 - 06/2012:* Freelance - web developer - web development using HTML, CSS\
+*2005 - 2006:* System Administrator at VexaDev\
 
 ## Code examples ##
 
-*Calculator* [calculator](https://github.com/funfordima/simpleCalculator)
-*TODO List* [todo](https://github.com/funfordima/ToDo)
-*Landing Page* [goit](https://github.com/funfordima/GoIT)
-*For validation* [form](https://github.com/funfordima/ValidationFormJs)
-*Trump's resume* [trump](https://github.com/funfordima/homepage)
-*hideTabContent* [tabs](https://github.com/funfordima/HideTabContent)
-*Consultex* [landingPage](https://github.com/funfordima/Consultex)
-*WeatherAPI* [fetchAPI](https://github.com/funfordima/weatherAPI)
+*Calculator* [calculator](https://github.com/funfordima/simpleCalculator)\
+*TODO List* [todo](https://github.com/funfordima/ToDo)\
+*Landing Page* [goit](https://github.com/funfordima/GoIT)\
+*For validation* [form](https://github.com/funfordima/ValidationFormJs)\
+*Trump's resume* [trump](https://github.com/funfordima/homepage)\
+*hideTabContent* [tabs](https://github.com/funfordima/HideTabContent)\
+*Consultex* [landingPage](https://github.com/funfordima/Consultex)\
+*WeatherAPI* [fetchAPI](https://github.com/funfordima/weatherAPI)\
 
 
 ## English ##
