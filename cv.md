@@ -87,13 +87,15 @@ and Mechanics with  honor (Avg. mark: 4.9/5)
 *02/2012 - 06/2012:* Freelance - web developer - web development using HTML, CSS
 *2005 - 2006:* System Administrator at VexaDev
 
+## English ##
 
-
-
-
+### B1. PreIntermediate ###
+Every day practice on ![Wlingua]:[wlingua] ![DuoLingo]:[duolingo]
 
 [coursera]: https://courses.ed-era.com/courses/course-v1:EDERA_BBF+WEB+2019/info
 [binary]: https://academy.binary-studio.com/ua/technology/js/
 [andersen]: https://andersenlab.com/events
 [RsSchool]: https://docs.rs.school/#/rs-school-chats
 [udemy]: https://www.udemy.com/course/javascript_full/learn
+[wlingua]: https://wlingua.com/en/
+[duolingo]: https://en.duolingo.com/
