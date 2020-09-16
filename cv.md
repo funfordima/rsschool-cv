@@ -2,13 +2,13 @@
 
 ## Personal information ##
 
-*E-mail:* [d.g.litvinov@gmail.com](mailto:d.g.litvinov@gmail.com)
+*E-mail:* [d.g.litvinov@gmail.com][mail]
 
 *Phone number:* +380661737150
 
-*Telegram:* [@shaggybii](https://t.me/shaggybii)
+*Telegram:* [@shaggybii][telegram]
 
-*GitHub:* [funfordima](https://github.com/funfordima)
+*GitHub:* [funfordima][git]
 
 *Address:* 223, Druzbi Narodiv Street, 61168 Kharkov
 
@@ -59,11 +59,11 @@ and Mechanics with  honor (Avg. mark: 4.9/5)
 
 ## Courses ##
 
-*06/2019:* Ed-Era: ![Web Development Basics][coursera]
-*02/2020:* Udemy: ![Full course JavaScript + React][udemy]
-*05/2020:* BinaryStudio: ![JavaScript][binary]
-*08/2020:* Andersen: ![FrontEnd][andersen]
-*01/2021:* RsSchool: ![FrontEnd][RsSchool]
+*06/2019:* Ed-Era: [Web Development Basics][coursera]
+*02/2020:* Udemy: [Full course JavaScript + React][udemy]
+*05/2020:* BinaryStudio: [JavaScript][binary]
+*08/2020:* Andersen: [FrontEnd][andersen]
+*01/2021:* RsSchool: [FrontEnd][RsSchool]
 
 ## Self education ##
 
@@ -90,7 +90,7 @@ and Mechanics with  honor (Avg. mark: 4.9/5)
 ## English ##
 
 ### B1. PreIntermediate ###
-Every day practice on ![Wlingua]:[wlingua] ![DuoLingo]:[duolingo]
+Every day practice on [Wlingua]:[wlingua] [DuoLingo]:[duolingo]
 
 [coursera]: https://courses.ed-era.com/courses/course-v1:EDERA_BBF+WEB+2019/info
 [binary]: https://academy.binary-studio.com/ua/technology/js/
@@ -99,3 +99,6 @@ Every day practice on ![Wlingua]:[wlingua] ![DuoLingo]:[duolingo]
 [udemy]: https://www.udemy.com/course/javascript_full/learn
 [wlingua]: https://wlingua.com/en/
 [duolingo]: https://en.duolingo.com/
+[mail]: mailto:d.g.litvinov@gmail.com
+[telegram]: https://t.me/shaggybii
+[git]: https://github.com/funfordima
