@@ -50,7 +50,7 @@ So, never! never give up!
 
 EXPLORER STRAIGHTFORWARD PEDANTIC\
 AGNOSTIC PROCRASTINATOR RELEVANT EMPATHETIC\
-CONFIDENT CONSISTENT CHALLENGING\
+CONFIDENT CONSISTENT CHALLENGING
 
 ## Education ##
 
@@ -63,7 +63,7 @@ and Mechanics with  honor (Avg. mark: 4.9/5)
 *02/2020:* Udemy: [Full course JavaScript + React][udemy]\
 *05/2020:* BinaryStudio: [JavaScript][binary]\
 *08/2020:* Andersen: [FrontEnd][andersen]\
-*01/2021:* RsSchool: [FrontEnd][RsSchool]\
+*01/2021:* RsSchool: [FrontEnd][RsSchool]
 
 ## Self education ##
 
@@ -85,7 +85,7 @@ and Mechanics with  honor (Avg. mark: 4.9/5)
 *03/2014 - 10/2014:* I had my own website: selling air sofa\
 *2013 - 2014:* Small cafe owner\
 *02/2012 - 06/2012:* Freelance - web developer - web development using HTML, CSS\
-*2005 - 2006:* System Administrator at VexaDev\
+*2005 - 2006:* System Administrator at VexaDev
 
 ## Code examples ##
 
@@ -96,7 +96,7 @@ and Mechanics with  honor (Avg. mark: 4.9/5)
 *Trump's resume* [trump](https://github.com/funfordima/homepage)\
 *hideTabContent* [tabs](https://github.com/funfordima/HideTabContent)\
 *Consultex* [landingPage](https://github.com/funfordima/Consultex)\
-*WeatherAPI* [fetchAPI](https://github.com/funfordima/weatherAPI)\
+*WeatherAPI* [fetchAPI](https://github.com/funfordima/weatherAPI)
 
 
 ## English ##
