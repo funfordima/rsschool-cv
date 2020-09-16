@@ -51,3 +51,26 @@ EXPLORER STRAIGHTFORWARD PEDANTIC\
 AGNOSTIC PROCRASTINATOR RELEVANT EMPATHETIC\ 
 CONFIDENT CONSISTENT CHALLENGING\
 
+## Education ##
+
+*2003 - 2008:* V.N.Karazin Kharkiv National University, master degree in Mathematics\
+and Mechanics with  honor (Avg. mark: 4.9/5)
+
+## Courses ##
+
+*06/2019:* Ed-Era: ![Web Development Basics][coursera]
+*05/2020:* BinaryStudio: ![JavaScript][binary]
+*08/2020:* Andersen: ![FrontEnd][andersen]
+*01/2021:* RsSchool: ![FrontEnd][RsSchool]
+
+
+
+
+
+
+
+
+[coursera]: https://courses.ed-era.com/courses/course-v1:EDERA_BBF+WEB+2019/info
+[binary]: https://academy.binary-studio.com/ua/technology/js/
+[andersen]: https://andersenlab.com/events
+[RsSchool]: https://docs.rs.school/#/rs-school-chats
