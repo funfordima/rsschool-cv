@@ -90,8 +90,8 @@ and Mechanics with  honor (Avg. mark: 4.9/5)
 ## English ##
 
 ### B1. PreIntermediate ###
-Every day practice on [Wlingua]:[wlingua]
-                      [DuoLingo]:[duolingo]
+Every day practice on * [Wlingua]:[wlingua]
+                      * [DuoLingo]:[duolingo]
 
 [coursera]: https://courses.ed-era.com/courses/course-v1:EDERA_BBF+WEB+2019/info
 [binary]: https://academy.binary-studio.com/ua/technology/js/
