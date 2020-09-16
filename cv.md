@@ -87,7 +87,7 @@ and Mechanics with  honor (Avg. mark: 4.9/5)
 *02/2012 - 06/2012:* Freelance - web developer - web development using HTML, CSS
 *2005 - 2006:* System Administrator at VexaDev
 
-## Work examples ##
+## Code examples ##
 
 *Calculator* [calculator](https://github.com/funfordima/simpleCalculator)
 *TODO List* [todo](https://github.com/funfordima/ToDo)
