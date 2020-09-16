@@ -30,6 +30,7 @@ So, never! never give up!
 * HTML
 * CSS
 * JAVASCRIPT
+* GIT
 * PASCAL
 * DELPHI
 * PHOTOSHOP
@@ -59,11 +60,24 @@ and Mechanics with  honor (Avg. mark: 4.9/5)
 ## Courses ##
 
 *06/2019:* Ed-Era: ![Web Development Basics][coursera]
+*02/2020:* Udemy: ![Full course JavaScript + React][udemy]
 *05/2020:* BinaryStudio: ![JavaScript][binary]
 *08/2020:* Andersen: ![FrontEnd][andersen]
 *01/2021:* RsSchool: ![FrontEnd][RsSchool]
 
+## Self education ##
 
+* [HTML, CSS, JS W3C](https://www.w3schools.com/)
+* [CSS](https://css.in.ua/)
+* [HTML HTMLAcademy](https://htmlacademy.ru/)
+* [HTML, CSS, JS MDN](https://developer.mozilla.org/)
+* [FeeCodeCamp](https://www.freecodecamp.org/)
+* [JS LearnJS](https://learn.javascript.ru/)
+* [CodeWars](https://www.codewars.com/)
+* [YouTube V.Minin WebDev IT-KAMASUTRA Web Developer Blog](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
+* [LearnAmericanEnglish](https://www.learnamericanenglishonline.com/)
+* DuoLingo
+* Wlingua
 
 
 
@@ -74,3 +88,4 @@ and Mechanics with  honor (Avg. mark: 4.9/5)
 [binary]: https://academy.binary-studio.com/ua/technology/js/
 [andersen]: https://andersenlab.com/events
 [RsSchool]: https://docs.rs.school/#/rs-school-chats
+[udemy]: https://www.udemy.com/course/javascript_full/learn
