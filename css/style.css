@@ -165,3 +165,46 @@ address {
 .self ul li:active {
     color: #0017EF;
 }
+
+.language ul li {
+    padding-right: 10px;
+    font-size: 1.2em;
+    line-height: 1.5;
+}
+
+.character {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.character p {
+    font-size: 1em;
+    line-height: 1.5;
+    text-align: justify; 
+}
+
+.language ul {
+   display: flex;
+   flex-wrap: wrap;
+}
+
+.hobby div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.hobby img {
+    width: 40px;
+}
+
+.work {
+    font-size: 0.9em;
+}
+
+.code {
+    margin-top: -43px;
+}
+
+.hobby {
+    margin-bottom: 75px;
+}
