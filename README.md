@@ -1,1 +1,1 @@
-https://funfordima.github.io/rsschool-cv/cv
+https://funfordima.github.io/rsschool-cv/
