@@ -9,6 +9,10 @@ body {
     font-family: Helvetica, Arial, sans-serif;
 }
 
+.wrap {
+    margin: 0 auto;
+}
+
 .header,
 .main {
     display: flex;
@@ -212,7 +216,7 @@ address {
 .divider__middle {
     position: absolute;
     top: 60px;
-    left: 43%;
+    left: 45%;
     height: 100em;
     border: 2px solid #000;
 }
