@@ -90,3 +90,78 @@ address {
     color: #00A893;
     text-align: left;
 }
+
+.navigation,
+.education,
+.courses {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.navigation li {
+    list-style-type: none;
+    font-size: 2em;
+    padding: 15px 15px 15px 0;
+}
+
+.navigation li a,
+.courses ul li a,
+.self ul li a,
+.language ul li a,
+.code ul li a {
+    text-decoration: none;
+}
+
+.navigation li img {
+    width: 25px;
+}
+
+.divider__right {
+    margin: 20px 0;
+    border: 2px solid #000;
+    width: 100%;
+}
+
+.container__right p,
+.container__right cite {
+    padding: 5px 15px 5px 0;
+    font-size: 1.5em;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.education p,
+.language span {
+    font-size: 1.2em;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.courses ul li,
+.language ul li,
+.code ul li,
+.work ul li {
+    list-style-type: none;
+    font-size: 1.1em;
+    padding: 5px 15px 5px 0;
+}
+
+.self h2 {
+    margin-top: 29px;
+}
+
+.self ul {
+    margin-left: 20px;
+    font-size: 1.1em;
+    text-align: left;
+    
+}
+
+.self ul li {
+    padding-bottom: 6px;
+}
+
+.self ul li:active {
+    color: #0017EF;
+}
