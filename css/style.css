@@ -59,3 +59,34 @@ address {
     font-size: 2em;
 }
 
+.main {
+    height: 100%;
+}
+
+.main__first {
+    height: 350px;
+}
+
+.divider__left {
+    margin-top: 5px;
+    border: 2px solid #000;
+}
+
+.contact {
+    margin: 20px 0;
+}
+
+.contact h2,
+.container__right h2,
+.courses h2,
+.character h2,
+.language h2,
+.hobby h2,
+.code h2,
+.education h2 {
+    padding: 10px;
+    padding-left: 0;
+    font-size: 2em;
+    color: #00A893;
+    text-align: left;
+}
